@@ -1,0 +1,22 @@
+install node globally
+npm install -g create-react-app // install create-react-app globally
+npx create-react-app my=project  // setup project boiler code 
+****Cannot create a project named "myProject" because of npm naming restrictions:************
+Navigate to Your Project Directory: npm start => http://localhost:3000.
+install React Developer Tools  Install for Chrome
+
+----------------------------------------
+app.js(component)
+--->index.js(connect component to html (<javascript></javascript>))
+-------->index.html (website)
+
+--------------------
+let name="srishti"
+<html>{name} -->expression</htmlElement>
+
+-----------
+component name must start from capital ,small case don't work (if not default exported)
+
+How to remove double console.logs from React ? ------by removing  <React.StrictMode>
+
+why it prints console logs 2 times in react ?

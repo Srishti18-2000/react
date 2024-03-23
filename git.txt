@@ -1,0 +1,19 @@
+setup repository :
+------git init
+------git add README.md
+-------git commit -m "first commit"
+
+---------- git branch -M main  
+The command git branch -M main is used to rename the current branch to "main". This command is typically 
+used in Git repositories where the default branch name was historically "master"
+
+---------git remote add origin https://github.com/Srishti18-2000/react.git
+in Git is used to add a new remote repository named "origin" to your local Git repository.
+
+git remote: This is the command for managing remote repositories in Git.
+add: This subcommand is used to add a new remote repository.
+origin: This is the name given to the remote repository. 
+https://github.com/Srishti18-2000/react.git: This is the URL of the remote repository you want to add
+
+----------------git push -u origin main pushes the commits from your local "main" branch to 
+the "main" branch of the remote repository named "origin"
