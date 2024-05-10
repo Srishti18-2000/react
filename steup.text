@@ -1,6 +1,6 @@
 install node globally
 npm install -g create-react-app // install create-react-app globally
-npx create-react-app my=project  // setup project boiler code 
+   // setup project boiler code 
 ****Cannot create a project named "myProject" because of npm naming restrictions:************
 Navigate to Your Project Directory: npm start => http://localhost:3000.
 install React Developer Tools  Install for Chrome
